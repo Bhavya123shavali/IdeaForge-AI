@@ -1,0 +1,20 @@
+[
+  {
+    "idea_name": "FitFlow Coach",
+    "problem_statement": "Busy professionals struggle to stay consistent with fitness plans because most apps are generic and hard to stick with.",
+    "target_audience": "Urban professionals aged 25-40 who want short guided fitness routines.",
+    "revenue_model": "Freemium app with premium AI coaching subscription."
+  },
+  {
+    "idea_name": "AgriLink Local",
+    "problem_statement": "Small farmers lack direct access to nearby restaurants and retailers willing to buy produce consistently.",
+    "target_audience": "Small farmers and local food businesses in tier-2 cities.",
+    "revenue_model": "Transaction fee and B2B SaaS subscriptions."
+  },
+  {
+    "idea_name": "StudySprint AI",
+    "problem_statement": "Students lose time switching between notes, doubt solving, and revision tools before exams.",
+    "target_audience": "College students preparing for semester and placement exams.",
+    "revenue_model": "Monthly subscription with campus partnerships."
+  }
+]

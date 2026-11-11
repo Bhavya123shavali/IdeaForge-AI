@@ -1,0 +1,368 @@
+[
+  {
+    "id": "91c4e145-0ff0-43a2-a5f4-5016923f7223",
+    "created_at": "2026-04-26T14:01:14.465019+00:00",
+    "idea": {
+      "idea_name": "AI Meal Planner for Hostel Students",
+      "problem_statement": "Hostel students struggle to find affordable, healthy, and personalized meal options daily.",
+      "target_audience": "College students living in hostels and PG accommodations in urban areas",
+      "revenue_model": "Subscription-based weekly meal plans + commission from partner kitchens"
+    },
+    "report": {
+      "score": 9,
+      "competition": "Medium",
+      "swot": {
+        "strengths": [
+          "Problem appears commercially relevant and understandable.",
+          "Revenue path is present instead of being postponed.",
+          "Can be validated quickly through interviews and lightweight pilots."
+        ],
+        "weaknesses": [
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper."
+        ],
+        "opportunities": [
+          "A focused niche can create faster early adoption and better messaging.",
+          "Historical insight can help avoid repeated positioning mistakes.",
+          "Competitor weaknesses create room for a simpler or more verticalized offer."
+        ],
+        "threats": [
+          "Established players can copy lightweight features quickly.",
+          "Customer willingness to pay may lag unless ROI is explicit.",
+          "Crowded categories demand a stronger distribution advantage."
+        ]
+      },
+      "gaps": [
+        "Differentiation is not obvious from the problem framing.",
+        "Competitive pressure is meaningful; positioning must be sharper."
+      ],
+      "suggestions": [
+        "Sharpen the wedge by naming a specific first user segment and their urgent workflow.",
+        "Turn differentiation into a product promise that incumbents do not serve well.",
+        "Define a clearer retention loop so the value compounds after the first week."
+      ],
+      "competitors": [
+        {
+          "name": "AI Meal Planner for Hostel Students Lite",
+          "summary": "A lightweight competitor targeting College students living in hostels and PG accommodations in urban areas with faster onboarding and basic analytics.",
+          "strength": "Simple onboarding flow and lower price point.",
+          "weakness": "Limited product differentiation and weak retention loops.",
+          "source": "simulated"
+        },
+        {
+          "name": "AI Meal Planner for Hostel Students Pro",
+          "summary": "A premium-focused product serving College students living in hostels and PG accommodations in urban areas with automation and team collaboration.",
+          "strength": "Strong feature breadth and credible premium positioning.",
+          "weakness": "More complex setup and higher adoption friction.",
+          "source": "simulated"
+        },
+        {
+          "name": "Legacy Incumbent",
+          "summary": "An established category player solving adjacent needs for College students living in hostels and PG accommodations in urban areas.",
+          "strength": "Brand trust, distribution, and larger sales capacity.",
+          "weakness": "Slower innovation and dated user experience.",
+          "source": "simulated"
+        }
+      ],
+      "feasibility": {
+        "product": "Moderate",
+        "go_to_market": "Moderate",
+        "operations": "Moderate",
+        "notes": "Execution risk is manageable if the first segment and differentiation are narrowed early."
+      },
+      "market_pulse": {
+        "demand": 8,
+        "timing": "Good",
+        "confidence": "Medium-High"
+      },
+      "memory_insights": {
+        "similar_entries": [],
+        "repeated_patterns": [],
+        "historical_warnings": [],
+        "entry_count": 0
+      }
+    }
+  },
+  {
+    "id": "cc8e4909-3446-40a6-bab1-f26e2d6f5707",
+    "created_at": "2026-04-26T16:37:08.757300+00:00",
+    "idea": {
+      "idea_name": "Food Delivery for Students",
+      "problem_statement": "Students need cheap food",
+      "target_audience": "College students",
+      "revenue_model": "Delivery charges"
+    },
+    "report": {
+      "score": 5,
+      "competition": "Medium",
+      "swot": {
+        "strengths": [
+          "Problem appears commercially relevant and understandable.",
+          "Revenue path is present instead of being postponed.",
+          "Can be validated quickly through interviews and lightweight pilots."
+        ],
+        "weaknesses": [
+          "Target audience is too broad or under-defined.",
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper."
+        ],
+        "opportunities": [
+          "A focused niche can create faster early adoption and better messaging.",
+          "Historical insight can help avoid repeated positioning mistakes.",
+          "Competitor weaknesses create room for a simpler or more verticalized offer."
+        ],
+        "threats": [
+          "Established players can copy lightweight features quickly.",
+          "Customer willingness to pay may lag unless ROI is explicit.",
+          "Similarity to past ideas (AI Meal Planner for Hostel Students) could reduce novelty."
+        ]
+      },
+      "gaps": [
+        "Target audience is too broad or under-defined.",
+        "Differentiation is not obvious from the problem framing.",
+        "Competitive pressure is meaningful; positioning must be sharper.",
+        "This idea resembles previous submissions and may need stronger novelty."
+      ],
+      "suggestions": [
+        "Sharpen the wedge by naming a specific first user segment and their urgent workflow.",
+        "Turn differentiation into a product promise that incumbents do not serve well.",
+        "Define a clearer retention loop so the value compounds after the first week."
+      ],
+      "competitors": [
+        {
+          "name": "Food Delivery for Students Lite",
+          "summary": "A lightweight competitor targeting College students with faster onboarding and basic analytics.",
+          "strength": "Simple onboarding flow and lower price point.",
+          "weakness": "Limited product differentiation and weak retention loops.",
+          "source": "simulated"
+        },
+        {
+          "name": "Food Delivery for Students Pro",
+          "summary": "A premium-focused product serving College students with automation and team collaboration.",
+          "strength": "Strong feature breadth and credible premium positioning.",
+          "weakness": "More complex setup and higher adoption friction.",
+          "source": "simulated"
+        },
+        {
+          "name": "Legacy Incumbent",
+          "summary": "An established category player solving adjacent needs for College students.",
+          "strength": "Brand trust, distribution, and larger sales capacity.",
+          "weakness": "Slower innovation and dated user experience.",
+          "source": "simulated"
+        }
+      ],
+      "feasibility": {
+        "product": "Moderate",
+        "go_to_market": "Moderate",
+        "operations": "Moderate",
+        "notes": "Execution risk is manageable if the first segment and differentiation are narrowed early."
+      },
+      "market_pulse": {
+        "demand": 6,
+        "timing": "Good",
+        "confidence": "Medium"
+      },
+      "memory_insights": {
+        "similar_entries": [
+          {
+            "id": "91c4e145-0ff0-43a2-a5f4-5016923f7223",
+            "idea_name": "AI Meal Planner for Hostel Students",
+            "similarity": 0.29,
+            "score": 9,
+            "competition": "Medium"
+          }
+        ],
+        "repeated_patterns": [
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper."
+        ],
+        "historical_warnings": [],
+        "entry_count": 1
+      }
+    }
+  },
+  {
+    "id": "fd0891ba-f65a-4d89-8e31-efd148c86a6c",
+    "created_at": "2026-04-26T16:38:29.176414+00:00",
+    "idea": {
+      "idea_name": "AgriLink Local",
+      "problem_statement": "Small farmers lack direct access to nearby restaurants and retailers willing to buy produce consistently.",
+      "target_audience": "Small farmers and local food businesses in tier-2 cities.",
+      "revenue_model": "Transaction fee and B2B SaaS subscriptions."
+    },
+    "report": {
+      "score": 9,
+      "competition": "Medium",
+      "swot": {
+        "strengths": [
+          "Problem appears commercially relevant and understandable.",
+          "Revenue path is present instead of being postponed.",
+          "Can be validated quickly through interviews and lightweight pilots."
+        ],
+        "weaknesses": [
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper."
+        ],
+        "opportunities": [
+          "A focused niche can create faster early adoption and better messaging.",
+          "Historical insight can help avoid repeated positioning mistakes.",
+          "Competitor weaknesses create room for a simpler or more verticalized offer."
+        ],
+        "threats": [
+          "Established players can copy lightweight features quickly.",
+          "Customer willingness to pay may lag unless ROI is explicit.",
+          "Crowded categories demand a stronger distribution advantage."
+        ]
+      },
+      "gaps": [
+        "Differentiation is not obvious from the problem framing.",
+        "Competitive pressure is meaningful; positioning must be sharper."
+      ],
+      "suggestions": [
+        "Address patterns from prior weak ideas before expanding the roadmap.",
+        "Sharpen the wedge by naming a specific first user segment and their urgent workflow.",
+        "Turn differentiation into a product promise that incumbents do not serve well.",
+        "Define a clearer retention loop so the value compounds after the first week."
+      ],
+      "competitors": [
+        {
+          "name": "AgriLink Local Lite",
+          "summary": "A lightweight competitor targeting Small farmers and local food businesses in tier-2 cities. with faster onboarding and basic analytics.",
+          "strength": "Simple onboarding flow and lower price point.",
+          "weakness": "Limited product differentiation and weak retention loops.",
+          "source": "simulated"
+        },
+        {
+          "name": "AgriLink Local Pro",
+          "summary": "A premium-focused product serving Small farmers and local food businesses in tier-2 cities. with automation and team collaboration.",
+          "strength": "Strong feature breadth and credible premium positioning.",
+          "weakness": "More complex setup and higher adoption friction.",
+          "source": "simulated"
+        },
+        {
+          "name": "Legacy Incumbent",
+          "summary": "An established category player solving adjacent needs for Small farmers and local food businesses in tier-2 cities..",
+          "strength": "Brand trust, distribution, and larger sales capacity.",
+          "weakness": "Slower innovation and dated user experience.",
+          "source": "simulated"
+        }
+      ],
+      "feasibility": {
+        "product": "Moderate",
+        "go_to_market": "Moderate",
+        "operations": "Moderate",
+        "notes": "Execution risk is manageable if the first segment and differentiation are narrowed early."
+      },
+      "market_pulse": {
+        "demand": 8,
+        "timing": "Good",
+        "confidence": "Medium-High"
+      },
+      "memory_insights": {
+        "similar_entries": [],
+        "repeated_patterns": [
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper.",
+          "Target audience is too broad or under-defined.",
+          "This idea resembles previous submissions and may need stronger novelty."
+        ],
+        "historical_warnings": [
+          "Past idea 'Food Delivery for Students' scored poorly and needed stronger differentiation."
+        ],
+        "entry_count": 2
+      }
+    }
+  },
+  {
+    "id": "a13414f3-c6a5-42e0-b48f-c996c54317e9",
+    "created_at": "2026-04-28T05:22:03.369349+00:00",
+    "idea": {
+      "idea_name": "AI Resume Analyzer",
+      "problem_statement": "Users upload their resume \u2192 system analyzes \u2192 gives improvement ideas \u2192 scores \u2192 strengths & weaknesses.",
+      "target_audience": "Final year students\nJob seekers\nFresh graduates",
+      "revenue_model": "Freemium:\nFree \u2192 basic analysis\nPaid \u2192 detailed suggestions + downloadable report\nSubscription for frequent users"
+    },
+    "report": {
+      "score": 9,
+      "competition": "Medium",
+      "swot": {
+        "strengths": [
+          "Problem appears commercially relevant and understandable.",
+          "Revenue path is present instead of being postponed.",
+          "Can be validated quickly through interviews and lightweight pilots."
+        ],
+        "weaknesses": [
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper."
+        ],
+        "opportunities": [
+          "A focused niche can create faster early adoption and better messaging.",
+          "Historical insight can help avoid repeated positioning mistakes.",
+          "Competitor weaknesses create room for a simpler or more verticalized offer."
+        ],
+        "threats": [
+          "Established players can copy lightweight features quickly.",
+          "Customer willingness to pay may lag unless ROI is explicit.",
+          "Crowded categories demand a stronger distribution advantage."
+        ]
+      },
+      "gaps": [
+        "Differentiation is not obvious from the problem framing.",
+        "Competitive pressure is meaningful; positioning must be sharper."
+      ],
+      "suggestions": [
+        "Address patterns from prior weak ideas before expanding the roadmap.",
+        "Sharpen the wedge by naming a specific first user segment and their urgent workflow.",
+        "Turn differentiation into a product promise that incumbents do not serve well.",
+        "Define a clearer retention loop so the value compounds after the first week."
+      ],
+      "competitors": [
+        {
+          "name": "AI Resume Analyzer Lite",
+          "summary": "A lightweight competitor targeting Final year students\nJob seekers\nFresh graduates with faster onboarding and basic analytics.",
+          "strength": "Simple onboarding flow and lower price point.",
+          "weakness": "Limited product differentiation and weak retention loops.",
+          "source": "simulated"
+        },
+        {
+          "name": "AI Resume Analyzer Pro",
+          "summary": "A premium-focused product serving Final year students\nJob seekers\nFresh graduates with automation and team collaboration.",
+          "strength": "Strong feature breadth and credible premium positioning.",
+          "weakness": "More complex setup and higher adoption friction.",
+          "source": "simulated"
+        },
+        {
+          "name": "Legacy Incumbent",
+          "summary": "An established category player solving adjacent needs for Final year students\nJob seekers\nFresh graduates.",
+          "strength": "Brand trust, distribution, and larger sales capacity.",
+          "weakness": "Slower innovation and dated user experience.",
+          "source": "simulated"
+        }
+      ],
+      "feasibility": {
+        "product": "Moderate",
+        "go_to_market": "Moderate",
+        "operations": "Moderate",
+        "notes": "Execution risk is manageable if the first segment and differentiation are narrowed early."
+      },
+      "market_pulse": {
+        "demand": 8,
+        "timing": "Good",
+        "confidence": "Medium-High"
+      },
+      "memory_insights": {
+        "similar_entries": [],
+        "repeated_patterns": [
+          "Differentiation is not obvious from the problem framing.",
+          "Competitive pressure is meaningful; positioning must be sharper.",
+          "Target audience is too broad or under-defined.",
+          "This idea resembles previous submissions and may need stronger novelty."
+        ],
+        "historical_warnings": [
+          "Past idea 'Food Delivery for Students' scored poorly and needed stronger differentiation."
+        ],
+        "entry_count": 3
+      }
+    }
+  }
+]
